@@ -362,31 +362,8 @@ MovieTicketBooking.exe
 Linux / macOS
 ./MovieTicketBooking
 🖥️ Sample Menu
-========== MOVIE TICKET BOOKING ==========
+<img width="1025" height="834" alt="image" src="https://github.com/user-attachments/assets/5d58a9c1-0e4e-4e6e-94b4-a8470915c78a" />
 
-1. List Movies
-2. View Shows
-3. View Seat Layout
-4. Book Ticket
-5. Print Ticket
-6. Cancel Booking
-7. Exit
-
-Enter your choice:
-🎫 Sample Ticket
-========================================
-              TICKET
-========================================
-
-Booking ID : BK1001
-Movie      : Interstellar
-Screen     : Screen 1
-Time       : 06:00 PM
-Seats      : A1, A2
-Amount     : ₹300
-Status     : CONFIRMED
-
-========================================
 🛠️ Technologies Used
 Language: C++
 Paradigm: Object-Oriented Programming
